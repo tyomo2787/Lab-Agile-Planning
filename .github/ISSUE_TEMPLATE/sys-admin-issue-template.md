@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Sys admin issue template
+about: This templates is for creating user stories
 title: ''
 labels: ''
 assignees: ''
